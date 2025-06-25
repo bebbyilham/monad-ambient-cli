@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Sensitive files
+wallets.json
+.env
+*.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
